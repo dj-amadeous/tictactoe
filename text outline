@@ -1,0 +1,25 @@
+1. define function that draws the board (x/)
+
+2. define function that randomly assigns X or O to player (x)
+
+3. define function that randomly assigns who goes first (o)
+
+4. define play again function (x)
+
+5. define function that executes making move (x)
+
+6. define function that checks if the current board is a winner or a tie already(x)
+
+7. define function that creates board copy on each turn
+    a. takes board as argument
+    b. appends board changes on current board
+
+8. define function to check if the space is free for the computer
+
+9. define function to prompt players move
+
+10. define function for computer to choose move
+
+11. write the computer AI to use some strategy
+
+12. combine all these functions into a game is playing function to play the game
